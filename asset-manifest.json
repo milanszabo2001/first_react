@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/milanszabo2001/first_react.git/static/css/main.e7163912.css",
+    "main.js": "/milanszabo2001/first_react.git/static/js/main.ea4b0f0c.js",
+    "index.html": "/milanszabo2001/first_react.git/index.html",
+    "main.e7163912.css.map": "/milanszabo2001/first_react.git/static/css/main.e7163912.css.map",
+    "main.ea4b0f0c.js.map": "/milanszabo2001/first_react.git/static/js/main.ea4b0f0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7163912.css",
+    "static/js/main.ea4b0f0c.js"
+  ]
+}
